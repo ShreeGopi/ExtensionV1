@@ -17,9 +17,7 @@ A simple yet powerful **Chrome Extension** that automatically fetches and displa
 🎥 **Watch the demo video:** [Add your video link here after uploading]  
 Here’s what the popup looks like when running:
 
-![Extension Screenshot](<img width="936" height="590" alt="image" src="https://github.com/user-attachments/assets/b4e9806f-4422-4eaf-8967-fbf23332c41c" />
-)  
-*(Replace with your actual screenshot if available)*
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/f035d5a5-99a9-49bc-8734-99308bf19d2d" />
 
 ---
 
