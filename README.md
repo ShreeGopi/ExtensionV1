@@ -25,13 +25,11 @@ Here’s what the popup looks like when running:
 ## 🧱 Project Structure
 
 chrome-tab-title-extension/
-│
-├── manifest.json # Defines permissions, name, version, and popup
-├── popup.html # UI displayed when clicking the extension icon
-├── popup.js # Logic to fetch and show tab title
-├── icon.png # Optional icon
-└── README.md # Project documentation
----
+├── manifest.json – Defines permissions, name, version, and popup
+├── popup.html – UI displayed when clicking the extension icon
+├── popup.js – Logic to fetch and show tab title
+├── icon.png – Optional icon
+└── README.md – Project documentation
 
 
 
